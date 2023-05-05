@@ -56,3 +56,14 @@ open iterm2, and run
 ```bash
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
+To see all the iterm2 git alias run:
+
+```bash
+alias
+```
+
+OR
+
+Check Karls gists where he compiled all:
+https://gist.github.com/karlhorky/502edc38356a22aa6d76daccab1e9d32
